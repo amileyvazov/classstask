@@ -1,0 +1,11 @@
+/* input:nth-child(1) {
+    border: 2px solid ;
+    margin-bottom: 1px;
+}
+input{
+    display: block;
+}
+.form{
+    display: flex;
+    flex-wrap: nowrap;
+} */
